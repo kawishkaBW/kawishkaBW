@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm kawishka wimalarathna</h1>
 <h3 align="center">A passionate web developer from Sri lanka</h3>
+<img align="center" alt "coding" width="400" src="https://dribbble.com/shots/16762086-Programmer-character-animation#">
 
 - 💬 Ask me about **Web Development**
 
