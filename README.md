@@ -1,11 +1,12 @@
 <div id="header" align="center">
-  <img align="center" width="300" alt="Coding" src="https://steemitimages.com/0x0/https://steemitimages.com/DQmWy8TKcTx6raD88YpyGoEV2w58yhexUmo85jBxuSRAzU6/0_KXuX_V54FKpK-wsX.gif">
+  <img align="center" width="300" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Kawishka Wimalarathna</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" alt="Top Langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawishkaBW&layout=compact&theme=vision-friendly-dark" />
+</a>
 
 - 💬 Ask me about **Web Development**
 
