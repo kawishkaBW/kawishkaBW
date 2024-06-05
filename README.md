@@ -1,4 +1,4 @@
-<<img align="center" alt="Coding" width="400" src="https://steemitimages.com/0x0/https://steemitimages.com/DQmWy8TKcTx6raD88YpyGoEV2w58yhexUmo85jBxuSRAzU6/0_KXuX_V54FKpK-wsX.gif">
+<img align="center" alt="Coding" src="https://steemitimages.com/0x0/https://steemitimages.com/DQmWy8TKcTx6raD88YpyGoEV2w58yhexUmo85jBxuSRAzU6/0_KXuX_V54FKpK-wsX.gif">
 <h1 align="centre">Hi 👋, I'm kawishka wimalarathna</h1>
 <h3 align="center">A passionate web developer from Sri lanka</h3>
 <img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
