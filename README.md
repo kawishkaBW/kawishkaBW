@@ -101,6 +101,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" alt="Top Langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawishkaBW&layout=compact&theme=vision-friendly-dark" />
-</a>
