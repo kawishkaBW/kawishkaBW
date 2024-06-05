@@ -6,6 +6,7 @@
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
 - 💬 Ask me about **Web Development**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,10 +31,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
-
-<!-- GitHub stats alignment -->
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
     <h4>Frontend Development</h4>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -52,13 +49,10 @@
           <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
       </a>
     </p>
-  </div>
-  <div style="flex: 1;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="right" alt="Top Langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawishkaBW&layout=compact&theme=vision-friendly-dark" />
-        </a>
-  </div>
-</div>
+
+>
+      
+
 <h4>Backend Development</h4>
 <p align="left">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -106,3 +100,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a>
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" alt="Top Langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawishkaBW&layout=compact&theme=vision-friendly-dark" />
+</a>
